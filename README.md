@@ -10,6 +10,11 @@ ivrtym 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.idevelop.cc:8090/my-github-repos)
+* [阿三的发送到](http://www.idevelop.cc:8090/articles/2019/11/02/1572672841889.html)
+* [990890](http://www.idevelop.cc:8090/articles/2019/11/02/1572672815337.html)
+* [555555](http://www.idevelop.cc:8090/articles/2019/11/02/1572672801048.html)
+* [24523](http://www.idevelop.cc:8090/articles/2019/11/02/1572672151569.html)
 * [FangJian's blog](http://www.idevelop.cc:8090/articles/2019/11/02/1572671973972.html)
 * [世界，你好！](http://www.idevelop.cc:8090/hello-solo)
 
